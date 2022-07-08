@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Ephraim",
+  "author": "Rahul",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
